@@ -4,6 +4,7 @@ body{
     font-weight: 300;
     font-style: normal;
     color:aliceblue;
+    line-height:1.2em;
     position:sticky;
     background-image: url("imgs/Sunrise Background.png");
     height:573vh
