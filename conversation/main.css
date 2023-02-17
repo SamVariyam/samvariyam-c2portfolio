@@ -1,0 +1,161 @@
+/*General Styling*/
+body{
+    font-family: "kepler-std", serif;
+    font-weight: 300;
+    font-style: normal;
+    color:aliceblue;
+    position:sticky;
+    background-image: url("imgs/Sunrise Background.png")
+}
+.wrapper{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:20vh;
+}
+
+/*row styling*/
+.first-row{
+    display:flex;
+    flex-direction:row;
+    gap:30px;
+    font-family: "kepler-std", serif;
+    font-weight: 300;
+    font-style: italic;
+    z-index:2;
+    top:0;
+}
+
+.second-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top:0px;
+}
+
+.third-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top:60px;
+}
+
+.fourth-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top:90px;
+}
+
+.fifth-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 120px;
+}
+
+.sixth-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 150px;
+}
+
+.seventh-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 180px;
+}
+
+.eigth-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 210px;
+}
+.ninth-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 240px;
+}
+
+.tenth-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 270px;
+}
+.eleven-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 300px;
+}
+.twelve-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 330px;
+}
+.thirteen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 360px;
+}
+.fourteen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 390px;
+}
+.fifteen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 420px;
+}
+.sixteen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 450px;
+}
+.seventeen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 480px;
+}
+.eighteen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 510px;
+}
+.nineteen-row{
+    display:flex;
+    flex-direction:row;
+    gap:300px;
+    z-index:2;
+    top: 0px;
+}
